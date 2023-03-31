@@ -1,6 +1,6 @@
 Name:		texlive-ltxcmds
 Version:	56421
-Release:	1
+Release:	2
 Summary:	Some LaTeX kernel commands for general use
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltxcmds
