@@ -3,7 +3,7 @@ Version:	69032
 Release:	1
 Summary:	Some LaTeX kernel commands for general use
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltxcmds
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ltxcmds
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltxcmds.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltxcmds.doc.r%{version}.tar.xz
